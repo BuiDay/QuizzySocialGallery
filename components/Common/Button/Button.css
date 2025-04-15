@@ -1,0 +1,13 @@
+.btn{
+    background-image: linear-gradient(to left, white 50%, #FFCC00 50%,#FE568E);
+    background-size: 250% 100%;
+    background-position: 100% 0;
+    transition: all .4s ease-in;
+    color:black;
+}
+
+.btn:hover{
+    background-position: 0 0;
+    transition: all 0.4 ease-in;
+    color: white;
+}
